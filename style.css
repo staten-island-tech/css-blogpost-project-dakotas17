@@ -1,0 +1,17 @@
+head{
+    margin-top: 700px;
+}
+
+body {
+    background-color: palevioletred;
+    color: slateblue;
+    font-size: 20px;
+}
+
+h2 {
+    color: purple;
+}
+
+.header-1 {
+    color: blueviolet;
+}
