@@ -1,17 +1,19 @@
-head{
-    margin-top: 700px;
-}
 
 body {
-    background-color: palevioletred;
-    color: slateblue;
+    background-color: #FF9CCE;
+    color: #56002F;
     font-size: 20px;
 }
 
-h2 {
-    color: purple;
+.header-2{
+    color: #AF005F;
+    text-align: center;
 }
-
 .header-1 {
-    color: blueviolet;
+    color: #AF005F;
+    text-align: center;
+}
+.post-1{
+text-align: right;
+text-decoration: underline;
 }
