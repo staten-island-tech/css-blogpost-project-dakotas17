@@ -4,7 +4,9 @@ body {
     font-size: 20px;
     font-family: 'Lobster', cursive;
 }
-
+.h4{
+    text-decoration: underline;
+}
 .headers {
     color: #AF005F;
     text-align: center;
@@ -14,10 +16,12 @@ body {
     text-align: right;
     text-decoration: underline;
 }
-.para-2{
+
+.para-2 {
     font-family: 'Comfortaa', cursive;
 }
-.post-3{
+
+.post-3 {
     text-align: right;
     text-decoration: underline;
 }
