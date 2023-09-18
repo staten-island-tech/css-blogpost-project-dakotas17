@@ -5,15 +5,15 @@ body {
     font-size: 20px;
 }
 
-.header-2{
+.headers {
     color: #AF005F;
     text-align: center;
 }
-.header-1 {
-    color: #AF005F;
-    text-align: center;
+
+.post-1 {
+    text-align: right;
+    text-decoration: underline;
 }
-.post-1{
-text-align: right;
-text-decoration: underline;
+.para-1{
+    text-align: justify;
 }
